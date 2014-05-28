@@ -1,0 +1,12 @@
+[version]
+major=0
+minor=1
+
+[view]
+qat_en=1
+style_name=default
+qas_en=1
+
+[serial]
+port_name=COM3
+port_baud=115200

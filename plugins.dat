@@ -1,0 +1,8 @@
+[plugins]
+size=2
+1\name=Version
+1\file=version.dll
+1\enable=1
+2\name=Time Label
+2\file=timeLabel.dll
+2\enable=1
