@@ -8,5 +8,5 @@ style_name=default
 qas_en=1
 
 [serial]
-port_name=COM3
+port_name=COM15
 port_baud=115200
